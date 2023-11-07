@@ -1,10 +1,10 @@
-# Hymn-Searcher
+# HymnSearcher
 
 This program converts the hymn numbers from "Great Hymns Of The Faith" into the corresponding numbers in "Bible Truth Hymns".
 
 Add Hymns Page >  You can add your own Hymns to this or delete ones inside this. 
 
-Search Hymns Page > This is just a simplified version of the "Add Hymns" page. You can only search in it. 
+index Page > This is just a simplified version of the "Add Hymns" page. You can only search in it. 
 
 
 
@@ -16,7 +16,7 @@ First, download the json file called "Hymn Finder Backup_hymnData (4).json"
 
 Next, open the "Add Hymns" html, and import the same json into it. 
 
-You can now use the program from the "Add Hymns" or the "Search Hymns" pages and all the hymns should be loaded. 
+You can now use the program from the "Add Hymns" or the "index" pages and all the hymns should be loaded. 
 
 Note, if you empty your browser cashe your data may be lost. I highly recommend exporting your data so that you have a backup json. 
 
