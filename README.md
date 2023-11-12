@@ -7,7 +7,7 @@ Add Hymns Page >  You can add your own Hymns to this or delete ones inside this.
 index Page > This is just a simplified version of the "Add Hymns" page. You can only search in it. 
 
 
-
+**Note, I built this custom for my phone, so the scaling might be bad on your device. Let me know if you want me to adapt it for you. **
 
 Setup---
 
