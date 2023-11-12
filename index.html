@@ -101,7 +101,7 @@ input[type="search"] {
     <!-- Numeric keypad -->
     <div class="num-pad">
         <button id="searchButton" onclick="searchData(); vibrateDevice()">Search</button>
-        <button id="backspaceButton" onclick="backspaceInput()"><</button>
+        <button id="backspaceButton" onclick="backspaceInput(); vibrateDevice()"><</button>
         <button class="num-pad-button" onmousedown="appendToSearch('1'); vibrateDevice()">1</button>
         <button class="num-pad-button" onmousedown="appendToSearch('2'); vibrateDevice()">2</button>
         <button class="num-pad-button" onmousedown="appendToSearch('3'); vibrateDevice()">3</button>
