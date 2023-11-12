@@ -11,15 +11,17 @@ index Page > This is just a simplified version of the "Add Hymns" page. You can 
 
 Setup---
 
-First, download the json file called "Hymn Finder Backup_hymnData (4).json"  
-*This has all the hymns already, but you can start from scratch if you want. If you choose to do this, just open the html without using the json file. 
+First, the index page is a cleaned up version of the Add Hymns page, and I use it for searching. By default, there are no hymns in your databank. 
 
-Next, open the "Add Hymns" html, and import the same json into it. 
+If you would like to use the hymns I have saved, you need to download the json file attached above. Once it is downloaded, navigate to the "Add Hymns" page and import it. You can get there through the gear icon in the index page.
 
-You can now use the program from the "Add Hymns" or the "index" pages and all the hymns should be loaded. 
+If you would like to start from scratch with your hymns, that is very straightforward. In the "Add Hymns" page, there are three input boxes at the top. The first one is the title of your hymn, and the second is the number **from the hymnbook you are converting from**. 
+The third input box is the number **from the hymnbook you are converting too**. 
 
-Note, if you empty your browser cashe your data may be lost. I highly recommend exporting your data so that you have a backup json. 
+Once you have your hymn info filled out, press save and you're done. The searcher will search for the title or the number that you gave it in first number box. It will never search from the third box. When you search a hymn, it will show you the data from the first and third boxes, ie the title and corresponding number. 
 
+**Note, if you empty your browser cashe your data may be lost. I highly recommend exporting your data so that you have a backup json. 
+**
 
 
 Questions? Reach me at frozenmarke.hollingsworth@gmail.com
